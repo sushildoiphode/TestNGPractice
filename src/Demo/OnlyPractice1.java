@@ -13,6 +13,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class OnlyPractice1{
+// changes done by deepak on 2-10
 		@BeforeSuite
 		public void m1() {
 			System.out.println("Before Suit 1");
